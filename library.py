@@ -140,15 +140,6 @@ class entropy:
         else:
             H_Mu = np.log(V_1)
         return(H_Mu)
-	
-#	def kpn_estimator(self, X):
-#		n, d, k, V_1, distances = self.estimator_setup(X)
-#		for i in range(n):
-#            if d > 1:
-#                dist = np.sort(np.linalg.norm(X[i,:] - X, axis=1, ord=norm))
-#            else:
-#                dist = np.sort(np.abs(X[i] - X), axis=0)
-		
     
     def compute_errors(self, N):
         abs_err = np.zeros(N)
