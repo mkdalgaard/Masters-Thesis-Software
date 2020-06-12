@@ -13,7 +13,7 @@ from decimal import Decimal
 import scipy.optimize as opt
 import scipy.special as scp_sp
 import scipy.stats
-import library2 as lib
+import library as lib
 
 # =============================================================================
 # Chapter 3 - Numerical integration
