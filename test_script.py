@@ -6,7 +6,7 @@ Created on Sun Oct 13 21:08:42 2019
 """
 
 import numpy as np
-import library2 as lib
+import library as lib
 import statsmodels.tsa.stattools as ts
 import time
 from datetime import datetime, timedelta
