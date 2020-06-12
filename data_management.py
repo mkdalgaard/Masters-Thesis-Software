@@ -5,11 +5,8 @@ Created on Sun Mar 22 03:30:03 2020
 @author: Martin Kamp Dalgaard
 """
 
-import numpy as np
 import pandas as pd
 import pickle
-import matplotlib.pyplot as plt
-import library2 as lib
 
 # Demographics
 demo_header = pd.read_csv("data/raw/demographic_header.csv")
