@@ -1,5 +1,5 @@
-# Masters-Thesis-Software
-Publicly available Python scripts that has been used in the Master's thesis by Martin Kamp Dalgaard.
+# Software for Master's Thesis
+Publicly available Python scripts that have been used in the Master's thesis by Martin Kamp Dalgaard.
 
 The repository contains the following:
 <ul>
